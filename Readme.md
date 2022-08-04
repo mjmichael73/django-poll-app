@@ -2,6 +2,8 @@ Python version: 3.8.10
 Django version: 4.1
 
 Commands to run project:
+
+
         - python3 -m virtualenv venv
         - source venv/bin/activate
         - pip install -r requirements.txt
