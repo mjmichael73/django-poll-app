@@ -1,4 +1,5 @@
 Python version: 3.8.10
+
 Django version: 4.1
 
 Commands to run project:
